@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhigyanapl
+- 👋 Hi, I’m Abhigyan
 - 🍁 Interested in Web Development and UI/UX
 - 🍁 Skills: MERN Stack
 - 🍁 BTech'21 Nit Jalandhar
