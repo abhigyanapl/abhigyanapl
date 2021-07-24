@@ -3,7 +3,7 @@
 - 🍁 Skills: MERN Stack
 - 🍁 BTech'21 Nit Jalandhar
 - 🍁 Currently working on Placement Statistics website for my college
-- 📫 Contact me for collaboration abhigyanapl@gmail.com
+- 📬 Contact me for collaboration abhigyanapl@gmail.com
 
 <!---
 abhigyanapl/abhigyanapl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
